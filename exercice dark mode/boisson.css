@@ -1,0 +1,46 @@
+.logo{
+width: 170px;
+height: 170px;
+margin-top:20px;
+margin-left:5px;
+border-radius:10px;
+}
+
+.bloc { 
+  background-color: beige;
+color: black;
+height: 300px;
+}
+
+.texte-intro{
+    width: 1350px;
+    margin-left: 20px;
+    height: 40PX;
+    background-color: rgb(208, 209, 209);
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 8px black;
+    align-content: center;
+    padding: 30px;
+    color: rgb(0, 0, 0);
+    font-family:"girassol", sans-serif
+    }
+
+    .mocktail-1{
+      margin-left: 20px;
+      width: 1350px;
+      height: 350px;
+      background-color:rgb(208, 209, 209);
+      margin-top: 20px;
+      border-radius: 10px;
+      box-shadow: 3px 3px 8px black;
+      align-content: center;
+      padding: 30px;
+      color: rgb(0, 0, 0);
+      font-family:"girassol", sans-serif
+    }
+
+    .dark{
+    background-color: black;
+    color: white;
+}
